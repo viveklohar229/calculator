@@ -1,1 +1,3 @@
 # calculator
+
+This calculator is created by using HTML, CSS and JAVASCRIPT....
